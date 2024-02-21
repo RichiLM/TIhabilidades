@@ -1,0 +1,15 @@
+:root {
+    --heading: #000066;
+}
+
+h1 {
+    color: var(--heading);
+}
+
+body {
+    background-color: #ccccff;
+}
+
+img {
+    width: 100%;
+}
